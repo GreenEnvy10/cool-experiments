@@ -8,6 +8,6 @@ permalink: /cool-experiments/
 
 A collection of fun and quirky projects I've tried, usually with help from ChatGPT 😄.
 
-(not yet done, working on it soon 👍)
+(not done yet, working on it soon 👍)
 
 [← Back to Home](/)
